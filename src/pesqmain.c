@@ -108,7 +108,7 @@ Further information is also available from www.pesq.org
 #include "pesq.h"
 #include "dsp.h"
 
-#define ITU_RESULTS_FILE          "pesq_results.txt"
+#define ITU_RESULTS_FILE          "results/PESQ_scores.txt"
 
 
 int main (int argc, const char *argv []);
