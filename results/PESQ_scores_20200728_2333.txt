@@ -1,0 +1,3 @@
+REFERENCE	 DEGRADED	 PESQMOS	 MOSLQO	 SAMPLE_FREQ	 MODE
+audio/original/original_woman.wav	 audio/to_evaluate/noisy_woman.wav	 2.612	 2.276	 8000	nb
+audio/original/original_woman.wav	 audio/to_evaluate/predicted_woman.wav	 3.867	 4.014	 8000	nb
