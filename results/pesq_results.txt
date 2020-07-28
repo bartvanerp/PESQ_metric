@@ -1,0 +1,5 @@
+REFERENCE	 DEGRADED	 PESQMOS	 MOSLQO	 SAMPLE_FREQ	 MODE
+conform/or105.wav	 conform/dg105.wav	 2.237	 1.844	 8000	nb
+audio/original_woman.wav	 audio/predicted_woman.wav	 3.867	 4.014	 8000	nb
+audio/original_woman.wav	 audio/noisy_woman.wav	 2.612	 2.276	 8000	nb
+audio/original_woman.wav	 audio/original_woman.wav	 4.500	 4.549	 8000	nb
